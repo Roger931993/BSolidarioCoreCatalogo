@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cCXHVWlTsU=",
+  "success": true,
+  "projectFilePath": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roger\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

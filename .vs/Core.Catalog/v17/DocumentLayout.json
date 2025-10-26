@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|solutionrelative:src\\core.catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|solutionrelative:src\\core.catalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.api\\controllers\\catalogerrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|solutionrelative:src\\core.catalog.api\\controllers\\catalogerrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\catalogerror\\handlers\\geterrorbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\catalogerror\\handlers\\geterrorbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\extensions\\dapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\extensions\\dapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\extensions\\efextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\extensions\\efextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\repositories\\efcore\\config\\catalog_errorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\repositories\\efcore\\config\\catalog_errorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\repositories\\efcore\\config\\parametrosconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\repositories\\efcore\\config\\parametrosconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\repositories\\efcore\\loggrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\repositories\\efcore\\loggrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\repositories\\efcore\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\repositories\\efcore\\catalogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.api\\controllers\\parametroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CB992F-81E3-4B11-A208-8B39A75DC352}|src\\Core.Catalog.API\\Core.Catalog.API.csproj|solutionrelative:src\\core.catalog.api\\controllers\\parametroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\parametros\\commands\\loadparametrocachecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\parametros\\commands\\loadparametrocachecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\parametros\\commands\\registerparametrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\parametros\\commands\\registerparametrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\parametros\\queries\\getparametroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\parametros\\queries\\getparametroquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\parametros\\handlers\\registerparametrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\parametros\\handlers\\registerparametrocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\parametros\\handlers\\loadparametrocachecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\parametros\\handlers\\loadparametrocachecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\parametros\\handlers\\getparametroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\parametros\\handlers\\getparametroqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\dtos\\parametrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\dtos\\parametrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\catalogerror\\commands\\loadcachecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\catalogerror\\commands\\loadcachecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\catalogerror\\commands\\registererrorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\catalogerror\\commands\\registererrorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\catalogerror\\handlers\\loadcachecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\catalogerror\\handlers\\loadcachecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\catalogerror\\handlers\\registererrorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\catalogerror\\handlers\\registererrorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\features\\catalogerror\\queries\\geterrorbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\features\\catalogerror\\queries\\geterrorbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D74C77-D472-4578-B2A6-6DAB5F1CD9DC}|src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.domain\\entities\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D74C77-D472-4578-B2A6-6DAB5F1CD9DC}|src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj|solutionrelative:src\\core.catalog.domain\\entities\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D74C77-D472-4578-B2A6-6DAB5F1CD9DC}|src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.domain\\entities\\catalog_error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D74C77-D472-4578-B2A6-6DAB5F1CD9DC}|src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj|solutionrelative:src\\core.catalog.domain\\entities\\catalog_error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\repositories\\dapper\\unitofworkcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\repositories\\dapper\\unitofworkcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\interfaces\\persistence\\iunitofworkcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\interfaces\\persistence\\iunitofworkcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E8EEE3-CECF-4BAC-BF98-0843C004A2C1}|src\\Core.Catalog.Infrastructure\\Core.Catalog.Infrastructure.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.infrastructure\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E8EEE3-CECF-4BAC-BF98-0843C004A2C1}|src\\Core.Catalog.Infrastructure\\Core.Catalog.Infrastructure.csproj|solutionrelative:src\\core.catalog.infrastructure\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D74C77-D472-4578-B2A6-6DAB5F1CD9DC}|src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.domain\\enums\\enumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D74C77-D472-4578-B2A6-6DAB5F1CD9DC}|src\\Core.Catalog.Domain\\Core.Catalog.Domain.csproj|solutionrelative:src\\core.catalog.domain\\enums\\enumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\common\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\common\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.application\\dtos\\adm_permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDFD148-2602-4F77-87B3-DCAD7A06E085}|src\\Core.Catalog.Application\\Core.Catalog.Application.csproj|solutionrelative:src\\core.catalog.application\\dtos\\adm_permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|d:\\@git_repositorio\\solidario\\core.catalog\\src\\core.catalog.persistence\\migrations\\20251026004049_migration-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9766B4-071D-4ECD-86C5-7D53FA342A55}|src\\Core.Catalog.Persistence\\Core.Catalog.Persistence.csproj|solutionrelative:src\\core.catalog.persistence\\migrations\\20251026004049_migration-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DapperExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Extensions\\DapperExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Extensions\\DapperExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Extensions\\DapperExtensions.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Extensions\\DapperExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:30:21.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParametrosController.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\Controllers\\ParametrosController.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.API\\Controllers\\ParametrosController.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\Controllers\\ParametrosController.cs",
+              "RelativeToolTip": "src\\Core.Catalog.API\\Controllers\\ParametrosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:39:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatalogRepository.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\CatalogRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\CatalogRepository.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\CatalogRepository.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\CatalogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:09:22.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoggRepository.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\LoggRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\LoggRepository.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\LoggRepository.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\LoggRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:09:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.API\\appsettings.Development.json",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Core.Catalog.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T04:52:34.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.API\\appsettings.json",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\appsettings.json",
+              "RelativeToolTip": "src\\Core.Catalog.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T05:20:48.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFExtensions.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Extensions\\EFExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Extensions\\EFExtensions.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Extensions\\EFExtensions.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Extensions\\EFExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:32:44.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "catalog_errorConfig.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\catalog_errorConfig.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\catalog_errorConfig.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\catalog_errorConfig.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\catalog_errorConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:09:24.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "parametrosConfig.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\parametrosConfig.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\parametrosConfig.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\parametrosConfig.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Repositories\\EFCore\\Config\\parametrosConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:16:26.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogErrorController.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\Controllers\\CatalogErrorController.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.API\\Controllers\\CatalogErrorController.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.API\\Controllers\\CatalogErrorController.cs",
+              "RelativeToolTip": "src\\Core.Catalog.API\\Controllers\\CatalogErrorController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:40:16.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetErrorByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\GetErrorByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\GetErrorByIdQueryHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\GetErrorByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\GetErrorByIdQueryHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:10:28.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251026004049_Migration-Init.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Migrations\\20251026004049_Migration-Init.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Migrations\\20251026004049_Migration-Init.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Migrations\\20251026004049_Migration-Init.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Migrations\\20251026004049_Migration-Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:40:50.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterParametroCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\RegisterParametroCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\RegisterParametroCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\RegisterParametroCommand.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\RegisterParametroCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:19:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoadParametroCacheCommandHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\LoadParametroCacheCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\LoadParametroCacheCommandHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\LoadParametroCacheCommandHandler.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\LoadParametroCacheCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:20:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterParametroCommandHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\RegisterParametroCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\RegisterParametroCommandHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\RegisterParametroCommandHandler.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\RegisterParametroCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:20:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetParametroQuery.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Queries\\GetParametroQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\Parametros\\Queries\\GetParametroQuery.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Queries\\GetParametroQuery.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\Parametros\\Queries\\GetParametroQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:20:14.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoadParametroCacheCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\LoadParametroCacheCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\LoadParametroCacheCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\LoadParametroCacheCommand.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\Parametros\\Commands\\LoadParametroCacheCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:19:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetParametroQueryHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\GetParametroQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\GetParametroQueryHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\GetParametroQueryHandler.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\Parametros\\Handlers\\GetParametroQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:20:03.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "parametroDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\DTOs\\parametroDto.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\DTOs\\parametroDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\DTOs\\parametroDto.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\DTOs\\parametroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:17:12.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationMappingProfile.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:11:04.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "parametros.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Entities\\parametros.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Domain\\Entities\\parametros.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Entities\\parametros.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Domain\\Entities\\parametros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:15:03.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetErrorByIdQuery.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Queries\\GetErrorByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\CatalogError\\Queries\\GetErrorByIdQuery.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Queries\\GetErrorByIdQuery.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\CatalogError\\Queries\\GetErrorByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:10:40.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterErrorCommandHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\RegisterErrorCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\RegisterErrorCommandHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\RegisterErrorCommandHandler.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\RegisterErrorCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:25:59.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoadCacheCommandHandler.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\LoadCacheCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\LoadCacheCommandHandler.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\LoadCacheCommandHandler.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\CatalogError\\Handlers\\LoadCacheCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:10:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterErrorCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\RegisterErrorCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\RegisterErrorCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\RegisterErrorCommand.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\RegisterErrorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:23:38.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoadCacheCommand.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\LoadCacheCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\LoadCacheCommand.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\LoadCacheCommand.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Features\\CatalogError\\Commands\\LoadCacheCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:10:23.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWorkCatalog.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\Dapper\\UnitOfWorkCatalog.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Persistence\\Repositories\\Dapper\\UnitOfWorkCatalog.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Persistence\\Repositories\\Dapper\\UnitOfWorkCatalog.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Persistence\\Repositories\\Dapper\\UnitOfWorkCatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:13:24.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:11:04.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWorkCatalog.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Interfaces\\Persistence\\IUnitOfWorkCatalog.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Interfaces\\Persistence\\IUnitOfWorkCatalog.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Interfaces\\Persistence\\IUnitOfWorkCatalog.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Interfaces\\Persistence\\IUnitOfWorkCatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:12:26.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Infrastructure\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:12:30.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "catalog_error.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Entities\\catalog_error.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Domain\\Entities\\catalog_error.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Entities\\catalog_error.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Domain\\Entities\\catalog_error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:07:32.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EnumTypes.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Enums\\EnumTypes.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Domain\\Enums\\EnumTypes.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Domain\\Enums\\EnumTypes.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Domain\\Enums\\EnumTypes.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:38:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "adm_permissionDto.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\DTOs\\adm_permissionDto.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\DTOs\\adm_permissionDto.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\DTOs\\adm_permissionDto.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\DTOs\\adm_permissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:37:53.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Common\\PermissionService.cs",
+              "RelativeDocumentMoniker": "src\\Core.Catalog.Application\\Common\\PermissionService.cs",
+              "ToolTip": "D:\\@Git_Repositorio\\Solidario\\Core.Catalog\\src\\Core.Catalog.Application\\Common\\PermissionService.cs",
+              "RelativeToolTip": "src\\Core.Catalog.Application\\Common\\PermissionService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:23:19.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
